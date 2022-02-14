@@ -1,0 +1,6 @@
+HERENCIAS
+siempre que hay herencia los atributos seran protected(#) para que lo puedan tener los
+hijos.
+Con las herencias si se mantien las clases aunque no tengan atributos ni funiones
+
+

@@ -1,0 +1,4 @@
+Reglas del Kanban.
+Para implementar la herramienta kanban de una manera correcta se debe seguir una reglas fundamentales.
+- Regla 1: No se deben enviar productos defectuosos a los procesos siguentes.
+- Regla 2: Los procesos siguentes solo  requerirán "lo necesario " del proceso anterior

@@ -1,0 +1,6 @@
+asociación : dos clases asociadas y una de ella recive por el constructor un objeto.
+dependencia: la dependencia lo recibe en un metodo que no es constructor.
+agregación: recibe muchas lista y en el constructor (relacion 1-*)
+composición: un objeto es propietario de otro
+
+
